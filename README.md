@@ -1,2 +1,2 @@
-# xnickx.gq-website
+# xnick.ml
 lol
